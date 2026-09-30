@@ -1,0 +1,6 @@
+{
+  "name": "Retro Arcade Hub",
+  "description": "Play classic browser games including Neon Snake, Brick Breaker, and Tetro Stack with 8-bit synthesized audio and touch controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
